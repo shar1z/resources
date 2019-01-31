@@ -1,6 +1,5 @@
-## Talks 
--
-
+## Talks
+   -
 
 ### Roundup by Speakers
 - [Avishai Ish-Shalom](https://www.twitter.com/nukemberg)
@@ -12,7 +11,8 @@
   - [Recorded Talks - YouTube](https://www.youtube.com/watch?v=ALGuyXSo5e8&list=PLaPhdMYPt9QizjOPIPYWpTrrx6zwSQvZ_)
 
 - [Adrian Cockcroft]()
-  - [Slideshare]()
+  - [Slideshare - Netflix](https://www.slideshare.net/adrianco)
+  - [Slideshare - Battery Ventures](https://www.slideshare.net/adriancockcroft)
   - [Recorded Talks - YouTube]()
  
 ### Roundup by Technologies 
@@ -62,14 +62,14 @@
 - [GOTO Chicago 2018](https://www.youtube.com/watch?v=AbgsfeGvg3E&list=PLEx5khR4g7PKqVew27D3jvMknjxjowoKl)
  
 *2017*
-  - 
+- 
   
-  - 
+  
 *2016*
-  - 
+-
   
 *2015*
-  - 
+- 
   
 #### [Strange Loop](https://www.thestrangeloop.com/)
   - [Strange Loop 2018](https://www.youtube.com/watch?v=y-xgWLYQc4g&list=PLcGKfGEEONaBUdko326yL6ags8C_SYgqH)
