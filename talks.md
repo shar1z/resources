@@ -1,11 +1,11 @@
 ## Talks 
 
 ### Roundup by Speakers
-- Avishai Ish-Shalom 
+- [Avishai Ish-Shalom](https://www.twitter.com/nukemberg)
   - [Speakerdeck](https://slides.com/nukemberg)
   - [Recorded Talks - YouTube](https://www.youtube.com/playlist?list=PLaPhdMYPt9QgsDHp9dZWXOBbBmGIG03kH)
 
-- Andrew Clay Shafer
+- [Andrew Clay Shafer](https://www.twitter.com/littleidea)
   - [Slideshare](https://www.slideshare.net/littleidea)
   - [Recorded Talks - YouTube](https://www.youtube.com/watch?v=ALGuyXSo5e8&list=PLaPhdMYPt9QizjOPIPYWpTrrx6zwSQvZ_)
  
