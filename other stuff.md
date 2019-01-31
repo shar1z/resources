@@ -17,4 +17,9 @@
 - [4 Visualizations of Continuous Delivery]()
 - []()
 
-
+## Podcasts
+- [The Ship Show](http://theshipshow.com/)
+- [Arrested DevOps](https://www.arresteddevops.com/)
+- [Food Fight](http://foodfightshow.org/)
+- [Developers without Culture](http://notarbut.co/) [HEB]
+- []()
