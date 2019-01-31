@@ -5,7 +5,7 @@
 - []()
 
 ## Funny | Smart
-- [DevOps Reactions - No Longer Active](http://devopsreactions.tumblr.com/)
+- [DevOps Reactions](http://devopsreactions.tumblr.com/) No Longer Active
 - [I am Developer Twitter](https://twitter.com/iamdevloper)
 - [NixCraft Twitter](https://twitter.com/nixcraft)
 - [Command Line Magic](https://twitter.com/climagic)
