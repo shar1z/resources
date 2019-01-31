@@ -7,7 +7,7 @@
 
 - Andrew Clay Shafer
   - [Slideshare](https://www.slideshare.net/littleidea)
-  - [Recorded Talks - YouTube](https://www.youtube.com/watch?v=ALGuyXSo5e8&list=PLaPhdMYPt9QizjOPIPYWpTrrx6zwSQvZ_
+  - [Recorded Talks - YouTube](https://www.youtube.com/watch?v=ALGuyXSo5e8&list=PLaPhdMYPt9QizjOPIPYWpTrrx6zwSQvZ_)
  
 ### Roundup by Technologies 
 - [Clojure](
