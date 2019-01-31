@@ -1,5 +1,4 @@
 ## Talks
-   -
 
 ### Roundup by Speakers
 - [Avishai Ish-Shalom](https://www.twitter.com/nukemberg)
@@ -22,8 +21,7 @@
 - [Open Source](#)
 
 
-### Roundup by Conferences (Co-organizer)
--
+## Roundup by Conferences (Co-organizer)
 
 #### DevOpsDays Tel Aviv | [Presentations](https://www.slideshare.net/DevopsCon)
 - 2018 - [Talks](https://www.youtube.com/watch?v=7WVaijojl9w&list=PL8tivQAdoavO1h9DLI6SGNf517QDLa6kM) 
@@ -46,14 +44,11 @@
 #### Statscraft | [Presentations](https://www.slideshare.net/statscraft)
 - 2016 [Talks](https://www.youtube.com/watch?v=XI32yrTXPaY&list=PLlhgd2ycH2eXx0e5FajrTi7Z7KcVxk1cG)
 
-### Other Confs 
--
-
+## Other Confs 
   
 #### [GoTo;]()
--
 
- *2018*
+*2018*
 -
 
 - [GOTO Copenhagen 2018](https://www.youtube.com/watch?v=yOpYYYRuDQ0&list=PLEx5khR4g7PIzxn476GK3Mkk19csZZjeH)
