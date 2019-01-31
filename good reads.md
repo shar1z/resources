@@ -8,7 +8,7 @@
 
 ## Engineering Blogs
 - [Netflix TechBlog](https://medium.com/netflix-techblog)
-- [Zalando Tech Blog](https://jobs.zalando.com/tech/blog/?gh_src=4n3gxh1) | And 
+- [Zalando Tech Blog](https://jobs.zalando.com/tech/blog/?gh_src=4n3gxh1) | And their [Engineering Principles](https://github.com/zalando/engineering-principles) are definitely worth a read.
 - [AirBnB Engineering & Data Science](https://medium.com/airbnb-engineering)
 - [AppsFlyer Engineering](https://medium.com/appsflyer)
 - [Pinterest](https://medium.com/pinterest-engineering)
