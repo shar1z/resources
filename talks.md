@@ -15,10 +15,11 @@
   - [Recorded Talks - YouTube]()
  
 ### Roundup by Technologies 
-- [Clojure](#)
+- [Clojure & Functional Programming](https://www.youtube.com/watch?v=HBgavRKhLAk&list=PLaPhdMYPt9QibMsfqy-JBVgp5Uw458Wuf)
 - [Coding - General](#)
 - [Cloud Native](#)
 - [Open Source](#)
+- [Leadership / Culture] (https://www.youtube.com/watch?v=1KeYzjILqDo&list=PLaPhdMYPt9Qg69Lik63Y8wB7Mr-w0Cjt9)
 
 
 ## Roundup by Conferences (Co-organizer)
